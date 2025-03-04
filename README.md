@@ -1,1 +1,1 @@
-# Capstone-Presentation
+This repository contains a PowerPoint presentation
