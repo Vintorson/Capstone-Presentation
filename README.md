@@ -1,1 +1,1 @@
-This repository contains a PowerPoint presentation
+This repository contains Jupyter Notebooks related to the IBM Data Science professional certificate capstone project
